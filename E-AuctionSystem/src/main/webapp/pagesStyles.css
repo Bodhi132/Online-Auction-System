@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+*{
+	box-sizing:border-box;
+}
+.flex-container
+{
+	background-color:#edca95;
+	width:650px;
+	height:253px;
+	display:flex;
+	justify-content:center;
+	padding:2rem;
+}
+.box-1
+{
+	height:200px;
+	width:200px;
+	margin-left:10px;
+	background-color:white;
+	text-align:center;
+	padding-top:5rem;
+}
+.box-2
+{
+	margin-left:3rem;
+	padding:2rem;
+	line-height:2;
+}
